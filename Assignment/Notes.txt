@@ -1,0 +1,4 @@
+Models
+- MLP (FNN)
+- Wide and Deep
+- TabNet
